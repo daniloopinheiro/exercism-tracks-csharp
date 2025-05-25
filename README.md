@@ -2,6 +2,16 @@
 
 Este repositório contém minhas soluções para os exercícios da trilha de C# na plataforma [Exercism.org](https://exercism.org/tracks/csharp).
 
+## 🚧 Status dos Exercícios
+
+| Exercício       | Status     | Iterações | Solução                                                                 |
+|-----------------|------------|-----------|-------------------------------------------------------------------------|
+| Hello World     | ✅ Concluído | 1         | [Ver solução](https://exercism.org/tracks/csharp/exercises/hello-world/solutions/daniloopinheiro) |
+
+## 🧠 Sobre
+
+Este projeto tem como objetivo praticar e aprofundar meus conhecimentos em C#, resolvendo exercícios com foco em conceitos fundamentais e avançados da linguagem.
+
 ## 📌 Progresso
 
 - **Total de exercícios disponíveis:** 175+
