@@ -7,6 +7,13 @@ Este repositório contém minhas soluções para os exercícios da trilha de C# 
 | Exercício       | Status     | Iterações | Solução                                                                 |
 |-----------------|------------|-----------|-------------------------------------------------------------------------|
 | Hello World     | ✅ Concluído | 1         | [Ver solução](https://exercism.org/tracks/csharp/exercises/hello-world/solutions/daniloopinheiro) |
+| Lucian's Luscious Lasagna | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/lucians-luscious-lasagna/solutions/daniloopinheiro) |
+| Annalyn's Infiltration | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/annalyns-infiltration/solutions/daniloopinheiro) |
+| Cars, Assemble! | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/cars-assemble/solutions/daniloopinheiro) |
+| Leap            | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/leap/solutions/daniloopinheiro) |
+
+
+
 
 ## 🧠 Sobre
 
