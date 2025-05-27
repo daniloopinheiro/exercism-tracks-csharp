@@ -4,16 +4,18 @@ Este repositório contém minhas soluções para os exercícios da trilha de C# 
 
 ## 🚧 Status dos Exercícios
 
-| Exercício       | Status     | Iterações | Solução                                                                 |
-|-----------------|------------|-----------|-------------------------------------------------------------------------|
-| Hello World     | ✅ Concluído | 1         | [Ver solução](https://exercism.org/tracks/csharp/exercises/hello-world/solutions/daniloopinheiro) |
+| Exercício                 | Status     | Iterações | Solução                                                                 |
+|---------------------------|------------|-----------|-------------------------------------------------------------------------|
+| Hello World               | ✅ Concluído | 1         | [Ver solução](https://exercism.org/tracks/csharp/exercises/hello-world/solutions/daniloopinheiro) |
 | Lucian's Luscious Lasagna | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/lucians-luscious-lasagna/solutions/daniloopinheiro) |
-| Annalyn's Infiltration | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/annalyns-infiltration/solutions/daniloopinheiro) |
-| Cars, Assemble! | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/cars-assemble/solutions/daniloopinheiro) |
-| Leap            | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/leap/solutions/daniloopinheiro) |
-
-
-
+| Annalyn's Infiltration    | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/annalyns-infiltration/solutions/daniloopinheiro) |
+| Cars, Assemble!           | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/cars-assemble/solutions/daniloopinheiro) |
+| Leap                      | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/leap/solutions/daniloopinheiro) |
+| Interest is Interesting   | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/interest-is-interesting/solutions/daniloopinheiro) |
+| Roll the Die!             | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/roll-the-die/solutions/daniloopinheiro) |
+| Log Levels                | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/log-levels/solutions/daniloopinheiro) |
+| Jedlik's Toys             | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/jedliks-toys/solutions/daniloopinheiro) |
+| Bird Watcher              | ✅ Concluído | 1 | [Ver solução](https://exercism.org/tracks/csharp/exercises/bird-watcher/solutions/daniloopinheiro) |
 
 ## 🧠 Sobre
 
